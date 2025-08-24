@@ -6,6 +6,9 @@
 # Rider editor settings
 .idea/
 
+# external plugins
+Packages/com.singularitygroup.hotreload/
+
 ### macOS ###
 # General
 .DS_Store
